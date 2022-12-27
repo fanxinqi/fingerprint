@@ -42,6 +42,9 @@
 ## 碰撞率0.07%，具体参考
  - https://browserleaks.com/canvas
 
+## 其他参考
+https://www.cnblogs.com/gaizai/p/4233780.html#_labelConvert23
+
 
 
 
