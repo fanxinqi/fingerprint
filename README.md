@@ -1,6 +1,6 @@
 # mm-fingerprint
 ![image](https://user-images.githubusercontent.com/16263427/209670821-ce4793bc-d98b-4f43-b13a-bac4434b6556.png)
-浏览器指纹：在非登陆状态方便追踪用户行为
+- 浏览器指纹：在非登陆状态方便追踪用户行为
 # api使用
 ```javascript
   import fingerprint from 'mm-fingerprint'
