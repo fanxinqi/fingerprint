@@ -1,4 +1,4 @@
-# fingerprint
+# mm-fingerprint
 ![image](https://user-images.githubusercontent.com/16263427/209670821-ce4793bc-d98b-4f43-b13a-bac4434b6556.png)
 # api使用
 ```javascript
@@ -6,7 +6,7 @@
   console.log(fingerprint()) // 7CC1AC53 设备不同，这个值就不同
 ```
 
-指纹原理
+# 指纹原理
 
 ## png 图片格式
 ### header
