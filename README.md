@@ -1,6 +1,6 @@
 # fingerprint
 ![image](https://user-images.githubusercontent.com/16263427/209670821-ce4793bc-d98b-4f43-b13a-bac4434b6556.png)
-api使用
+# api使用
 ```javascript
   import fingerprint from 'mm-fingerprint'
   console.log(fingerprint()) // 7CC1AC53 设备不同，这个值就不同
@@ -37,6 +37,10 @@ api使用
 - 计算方式
 1）直接对整个 base64 数据进行 hash，将hash值作为用户指纹
 2）从 PNG 图片中取出图片内容 CRC32 校验码，省去了计算hash效率比较高
+
+## 碰撞率0.07%，具体参考
+ - https://browserleaks.com/canvas
+
 
 
 
